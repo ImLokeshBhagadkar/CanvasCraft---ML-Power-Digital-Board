@@ -1,4 +1,3 @@
-# CanvasCraft---ML-Power-Digital-Board
 # CanvasCraft - ML Powered Digital Board
 
 ## Overview
